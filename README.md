@@ -32,8 +32,6 @@
 
 - ☁️  Explorando nuevas novedades del mundo tecnologico😅**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
 - 💪🏼 Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas, 
   autoaprendizaje en IA.
 
