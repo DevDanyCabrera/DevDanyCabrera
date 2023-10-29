@@ -26,13 +26,13 @@
 
 
 <!--Intro start-->
-- 🔭 Soy estudiante de Computación en la UNL**
+- 🔭 Soy estudiante de Computación en la **UNL**
 
-- 🌱 Actualmente estoy realizando estudios de aprendizaje en POO**
+- 🌱 Actualmente estoy realizando estudios de aprendizaje en **POO**
 
 - ☁️  Explorando nuevas novedades del mundo tecnologico😅**
 
-- 💪🏼 Metas futuras: aprender más tecnologías: nunca dejar de crear nuevas ideas, 
+- 💪🏼 Metas futuras: Aprender más tecnologías, nunca dejar de crear nuevas ideas, 
   autoaprendizaje en IA.
 
 <!--Intro end-->
